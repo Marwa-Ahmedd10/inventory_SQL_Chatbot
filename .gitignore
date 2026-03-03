@@ -1,0 +1,5 @@
+.env
+.venv/
+inventory.db
+__pycache__/
+*.pyc
